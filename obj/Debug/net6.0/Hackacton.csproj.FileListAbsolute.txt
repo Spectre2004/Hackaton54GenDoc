@@ -1,0 +1,18 @@
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Hackacton.exe
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Hackacton.deps.json
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Hackacton.runtimeconfig.json
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Hackacton.dll
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Hackacton.pdb
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.AssemblyInfoInputs.cache
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.AssemblyInfo.cs
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.csproj.CoreCompileInputs.cache
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.dll
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\refint\Hackacton.dll
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.pdb
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.genruntimeconfig.cache
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\ref\Hackacton.dll
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\matuh\source\repos\Hackacton\obj\Debug\net6.0\Hackacton.csproj.ResolveComReference.cache
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Экзаменационная ведомость (комплексный экзамен).doc
+C:\Users\matuh\source\repos\Hackacton\bin\Debug\net6.0\Экзаменационная ведомость.doc

@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\matuh\\source\\repos\\Hackacton\\Hackacton.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\matuh\\source\\repos\\Hackacton\\Hackacton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matuh\\source\\repos\\Hackacton\\Hackacton.csproj",
+        "projectName": "Hackacton",
+        "projectPath": "C:\\Users\\matuh\\source\\repos\\Hackacton\\Hackacton.csproj",
+        "packagesPath": "C:\\Users\\matuh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matuh\\source\\repos\\Hackacton\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\matuh\\source\\repos\\StatementGenerator54\\StatementGenerator54.Desktop\\StatementGenerator54.Desktop.csproj": {
+                "projectPath": "C:\\Users\\matuh\\source\\repos\\StatementGenerator54\\StatementGenerator54.Desktop\\StatementGenerator54.Desktop.csproj"
+              },
+              "C:\\Users\\matuh\\source\\repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj": {
+                "projectPath": "C:\\Users\\matuh\\source\\repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54.Desktop\\StatementGenerator54.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54.Desktop\\StatementGenerator54.Desktop.csproj",
+        "projectName": "StatementGenerator54.Desktop",
+        "projectPath": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54.Desktop\\StatementGenerator54.Desktop.csproj",
+        "packagesPath": "C:\\Users\\matuh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54.Desktop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj": {
+                "projectPath": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj",
+        "projectName": "StatementGenerator54",
+        "projectPath": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\StatementGenerator54.csproj",
+        "packagesPath": "C:\\Users\\matuh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matuh\\Source\\Repos\\StatementGenerator54\\StatementGenerator54\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
